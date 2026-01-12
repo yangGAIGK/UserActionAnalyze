@@ -1,0 +1,12 @@
+# 忽略编译输出目录
+target/
+build/
+bin/
+
+# 忽略编译生成的 class 文件
+*.class
+
+# 忽略 IDE 配置文件 (可选，建议忽略)
+.vscode/
+.idea/
+*.iml
